@@ -10,6 +10,8 @@ const nextConfig: NextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
+  // Hide the Next.js dev mode indicator badge
+  devIndicators: false,
 };
 
 export default nextConfig;
