@@ -44,3 +44,9 @@ next-env.d.ts
 /.codex/
 /outputs/
 /work/
+
+# AI / platform meta files — not part of the handcrafted project
+/.openai/
+/AGENTS.md
+/CLAUDE.md
+/chatgpt-auth.ts
